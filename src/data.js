@@ -1,0 +1,6 @@
+export const data=[
+    {id:1,name:'Yigit',age:22,image:'https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F153248026_3802157436526744_7072452340902759483_n.jpg%3Fccb%3D11-4%26oh%3Dc3703154b0e814631ddae0963a43408a%26oe%3D609AABC4&t=l&u=905395954339%40c.us&i=1613933417&n=i%2FJOc%2BH7K3eJ2hiDBo5VwwMMSVGbdBMcCukHFmAGqCo%3D'},
+    {id:2,name:'Furkan',age:22,image:'https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F182088280_464558384655691_8605618732646272670_n.jpg%3Fccb%3D11-4%26oh%3D3600287ebf226078bb2529eae9e8d17e%26oe%3D609B7D67&t=l&u=905527200054%40c.us&i=1620229850&n=WN59uL1uEk1X6zeuMzRFT69y3tEVIEX7f674BwBdCpg%3D'},
+    {id:3,name:'Berke',age:21,image:'https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F141099173_2866986446957769_5948429586930779019_n.jpg%3Fccb%3D11-4%26oh%3D7237ae7051efeafa40490e701aa3bee3%26oe%3D609AEF46&t=l&u=905313636295%40c.us&i=1611422795&n=3Jz8LTxKi%2BV9%2FpxAgfoIcIhu1IaAxau%2F%2B9MqmPi85HI%3D'},
+    {id:4,name:'Bilal',age:20,image:'https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F165872263_153214710078924_1465622091560676241_n.jpg%3Fccb%3D11-4%26oh%3D3dbb23e15084304ba8d5a5ed89eea704%26oe%3D609BB3D3&t=l&u=905061120511%40c.us&i=1619965322&n=l9LdEEJ0eJHWfSdtYIYWQUEsSOOAOHpLJ93ytlje%2Fm8%3D'}
+];

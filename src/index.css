@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: aqua;
+  color: #222;
+}
+
+@media screen and(min-width:768px) {
+  .booklist {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.btn {
+  background-color: lightblue;
+  font-size: 100%;
+  border-radius: 3rem;
+  font-weight: bold;
+  color: white;
+  width: 100%;
+}
+
+.person {
+  margin-left: 25px;
+  margin-bottom: 5px;
+  background-color: silver;
+  border-radius: 2rem;
+  padding-left: auto;
+  display: flex;
+  border-style: initial;
+  border-color: aqua;
+  font-size: 30px;
+}
+h10 {
+  font-size: 40%;
+  position: relative;
+  left: 10px;
+  top: 5px;
+}
+
+.img {
+  height: auto;
+  width: auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.header {
+  top: 20%;
+  left: 50%;
+  letter-spacing: var(--spacing);
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  color: black;
+}
+.section {
+  top: 30%;
+  left: 30%;
+  width: 30vw;
+  margin: 0 auto;
+  max-width: var(--max-width);
+  background-color: white;
+  border-radius: 1rem;
+  display: block;
+  border-style: inset;
+  border-color: aquamarine;
+}
+
+.img {
+  width: auto;
+  border-radius: 4rem;
+}
